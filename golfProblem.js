@@ -1,10 +1,9 @@
 /**
  * https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code
  */
-
+//const names = ['Hole-in-one!', 'Eagle', 'Birdie', 'Par', 'Bogey', 'Double Bogey', 'Go Home!'];
 //Solution 1
 (async () => {
-	const names = ['Hole-in-one!', 'Eagle', 'Birdie', 'Par', 'Bogey', 'Double Bogey', 'Go Home!'];
 
 	function golfScore(par, strokes) {
 		// Only change code below this line
